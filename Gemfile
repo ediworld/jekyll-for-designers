@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+ruby '2.2.1'
+gem 'jekyll-paginate'
+gem 'kramdown'
+gem 'jekyll-watch'
+gem 'rouge'
