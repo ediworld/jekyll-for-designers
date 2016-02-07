@@ -15,6 +15,7 @@ tagline: "A basic guide to Jekyll"
 
 # Build settings
 # gems: ['jekyll-paginate','kramdown']
+gems: [jekyll-paginate]
 markdown: kramdown
 kramdown: 
     auto_ids: false
